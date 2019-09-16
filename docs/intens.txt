@@ -1,0 +1,5 @@
+Análise
+Design
+Codificação
+Teste
+Operação
